@@ -101,13 +101,6 @@
   position: relative;
 }
 
-.checkBoxInput:checked::after {
-  content: "\002714";
-  display: flex;
-  justify-content: center;
-
-}
-
 .titleTask {
   flex: 1;
 }
