@@ -1,5 +1,5 @@
 # TO-DO-LIST
-<img src="./public/header.png">
+<img src="./public/to-do-list.png">
 
 ## :telescope: Tecnologias:
 - React 
